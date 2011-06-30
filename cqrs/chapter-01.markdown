@@ -1,6 +1,6 @@
 ---
-title: Chapter 01 - Core Development Concepts
 layout: post
+title: Chapter 01 - Core Development Concepts
 ---
 
 # Core Development Principles
