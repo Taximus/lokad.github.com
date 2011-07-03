@@ -12,6 +12,7 @@ title: Chapter 01 - Introduction
 * **Community**: https://groups.google.com/group/lokad
 * **Primary Author**: Rinat Abdullin ([@abdullin](http://twitter.com/abdullin)), Technology Lead at Lokad
 * **Other Contributions**: 
+
     * Joannes Vermorel ([@vermorel](http://twitter.com/vermorel)), Founder at Lokad
     * Vsevolod Parfenov ([@vsevolod](http://twitter.com/vsevolod)), Software Developer at Lokad
 
@@ -23,9 +24,9 @@ It is advised to be familiar with the theory behind CQRS Architecture principles
 This document applies to the Lokad.CQRS v2.0 release (June 2011). We will be improving it in parallel with the samples and the framework itself. Please, make sure, that you got the latest version.
 
 ## Open-Source Strategy
-Lokad.CQRS is an open source development framework released by Lokad SAS (http://lokad.com) for the community to use. As a start-up company we’ve benefitted a lot from a large number of various frameworks like Autofac, NUnit, ScrewTurn Wiki, ProtoBuf.NET, Math.NET and many more. These frameworks, shared under a liberal license, literally saved us thousands of man hours and allowed to achieve incredible results on the field of providing statistical forecasting as a service. 
+Lokad.CQRS is an open source development framework released by Lokad SAS (http://lokad.com) for the community to use. As a start-up company we have benefitted a lot from a large number of various frameworks like Autofac, NUnit, ScrewTurn Wiki, ProtoBuf.NET, Math.NET and many more. These frameworks, shared under a liberal license, literally saved us thousands of man hours and allowed to achieve incredible results on the field of providing statistical forecasting as a service. 
 
-Building distributed systems is neither the business focus of Lokad nor it is the critical competitive advantage. So we’ve decided to share some of our work and experience to say Thank You to incredible .NET community. 
+Building distributed systems is neither the business focus of Lokad nor it is the critical competitive advantage. So we've decided to share some of our work and experience to say Thank You to incredible .NET community. 
 
 Hopefully this project will help somebody to save a few man-hours, avoid a few pitfalls in building cloud systems and let focus resources and people on creating amazing products and services. It helps us.
 
