@@ -24,9 +24,9 @@ Often control over the dependency creation is delegated to specialized applicati
 Unit Testing
 ------------
 
-**Unit Testing** in software development is a way to quickly verify that smallest blocks of software (units) behave as expected even as the software changes and evolves.
+**Unit Testing** in software development is a way to quickly verify that smallest blocks of software (units) behave as expected even as the software changes and evolves.
 
-Any program could be logically separated into distinct units (in object-oriented programming the smallest unit usually being a class). Developers, while coding these program units, also create tests for them (code blocks containing some assertions and expectations about units). These tests could be used to rapidly verify behavior of the code being tested.
+Any program could be logically separated into distinct units (in object-oriented programming the smallest unit usually being a class). Developers, while coding these program units, also create tests for them (code blocks containing some assertions and expectations about units). These tests could be used to rapidly verify behavior of the code being tested.
 
 When some other developer introduces new units or changes something in existing units, he can run all the tests available for the program and verify that everything is still operating as expected. Usually running unit tests is a fast operation (less than 30 seconds), so developers are encouraged to do that often.
 
@@ -37,9 +37,9 @@ Command-Query Responsibility Segregation
 
 **Command-Query Responsibility Segregation (CQRS)** is a way of designing and developing scalable and robust enterprise solutions with rich business value.
 
-In an oversimplified manner, CQRS separates commands (that change the data) from the queries (that read the data). This simple decision brings along a few changes to the classical architecture with service layers along with some positive side effects and opportunities. Instead of the RPC and Request-Reply communications, messaging and Publish-Subscribe are used.
+In an oversimplified manner, CQRS separates commands (that change the data) from the queries (that read the data). This simple decision brings along a few changes to the classical architecture with service layers along with some positive side effects and opportunities. Instead of the RPC and Request-Reply communications, messaging and Publish-Subscribe are used.
 
-If we go deeper, Command-query Responsibility Separation is about development principles, patterns and the guidance to build enterprise solution architecture on top of them.
+If we go deeper, Command-query Responsibility Separation is about development principles, patterns and the guidance to build enterprise solution architecture on top of them.
 
 [Continue reading...](http://abdullin.com/cqrs/)
 
@@ -60,12 +60,12 @@ Domain-Driven Design is also a way of thinking, learning and talking about the b
 Cloud Computing
 ---------------
 
-**Cloud computing** is all about hardware-based services (involving computing, network and storage capacities), where:
+**Cloud computing** is all about hardware-based services (involving computing, network and storage capacities), where:
 
-* Services are provided on-demand; customers can pay for them as they go, without the need to invest into a datacenter.
+* Services are provided on-demand; customers can pay for them as they go, without the need to invest into a datacenter.
 * Hardware management is abstracted from the customers.
 * Infrastructure capacities are elastic and can easily scale up and down.
 
-There is a powerful economic force behind this simple model: providing and consuming cloud computing services generally allows having far more efficient resource utilization, compared to self-hosting and data center type of hosting.
+There is a powerful economic force behind this simple model: providing and consuming cloud computing services generally allows having far more efficient resource utilization, compared to self-hosting and data center type of hosting.
 
 [Continue reading...](http://abdullin.com/wiki/cloud-computing.html)
