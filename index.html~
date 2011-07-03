@@ -6,7 +6,7 @@ title: Rinat Abdullin
 <div id="home">
 	<h1>Lokad.CQRS Book</h1>
 	<p>
-	<strong>Lokad.CQRS</strong> is a <strong>.NET framework</strong> and a set of guidance materials for <em>building distributed and scalable applications</em> to be <strong>run on-premises or in the cloud</strong>. This project helps to design and develop decoupled systems locally and bring them to the distributed environments later.
+	Project Documentation for v2.0 (r9)
 	</p>
   <ul class="posts">
     <li><span>Chapter 01</span> &raquo; <a href="/cqrs/chapter-01">Introduction</a></li>
