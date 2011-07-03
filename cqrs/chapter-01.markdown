@@ -1,20 +1,29 @@
----
-layout: post
-title: Chapter 01 - Core Development Concepts
----
+**Lokad.CQRS** is a **.NET framework** and a set of guidance materials for _building distributed and scalable applications_ to be **run on-premises or in the cloud**. This project helps to design and develop decoupled systems locally and bring them to the distributed environments later.
 
-# Core Development Principles
+* **Homepage**: http://code.google.com/p/lokad-cqrs/
+* **Community**: https://groups.google.com/group/lokad
+* **Primary Author**: Rinat Abdullin ([@abdullin](http://twitter.com/abdullin)), Technology Lead at Lokad
+* **Other Contributions**: 
+    * Joannes Vermorel ([@vermorel](http://twitter.com/vermorel)), Founder at Lokad
+    * Vsevolod Parfenov ([@vsevolod](http://twitter.com/vsevolod)), Software Developer at Lokad
 
-There are certain development concepts that are essential to Lokad.CQRS, understanding it properly and successfully delivering software. These concepts will be briefly mentioned in this chapter just to ensure that we are on the same page regarding the terminology and application scenarios.
 
-Please, feel free to skim through this chapter, if the concepts are already familiar to you.
+Introduction
+------------
 
-## Inversion of Control
+### Document Audience
+This document targets developers that want to learn how to use Lokad.CQRS to prototype and develop _cloud-capable distributed_ systems with Microsoft .NET stack. It also might be helpful for .NET students who want to get guidance on building distributed and cloud systems.
 
-_Inversion of Control (IoC)_ is an approach in software development that favors removing sealed dependencies between classes in order to make code more simple and flexible. We push control of dependency creation outside of the class, while making this dependency explicit.
+It is advised to be familiar with the theory behind CQRS Architecture principles (http://abdullin.com/cqrs) and also be practically familiar with development on .NET 4.0 (serialization, parallel programming, LINQ, Dependency Injection and Inversion of Control, Unit Testing).
 
-Usage of Inversion of Control generally allows creating applications that are more flexible, unit-testable, simple and maintainable in the long run.
+This document applies to the Lokad.CQRS v2.0 release (June 2011). We will be improving it in parallel with the samples and the framework itself. Please, make sure, that you got the latest version.
 
-Often control over the dependency creation is delegated to specialized application blocks called Inversion of Control Containers. IoC containers are really good in determining dependencies that are needed to create a specific class and injecting them automatically. This process is often called Dependency Injection.
+### Open-Source Strategy
+Lokad.CQRS is an open source development framework released by Lokad SAS (http://lokad.com) for the community to use. As a start-up company we’ve benefitted a lot from a large number of various frameworks like Autofac, NUnit, ScrewTurn Wiki, ProtoBuf.NET, Math.NET and many more. These frameworks, shared under a liberal license, literally saved us thousands of man hours and allowed to achieve incredible results on the field of providing statistical forecasting as a service. 
 
-[Continue reading...](http://abdullin.com/wiki/inversion-of-control-ioc.html)
+Building distributed systems is neither the business focus of Lokad nor it is the critical competitive advantage. So we’ve decided to share some of our work and experience to say Thank You to incredible .NET community. 
+
+Hopefully this project will help somebody to save a few man-hours, avoid a few pitfalls in building cloud systems and let focus resources and people on creating amazing products and services. It helps us.
+
+Visit our [Developers section](http://www.lokad.com/developers.ashx) for more detail on our Open-Source Strategy and list of supported projects.
+
