@@ -8,13 +8,10 @@ title: Chapter 01 - Introduction
 
 **Lokad.CQRS** is a **.NET framework** and a set of guidance materials for _building distributed and scalable applications_ to be **run on-premises or in the cloud**. This project helps to design and develop decoupled systems locally and bring them to the distributed environments later.
 
-* **Homepage**: http://code.google.com/p/lokad-cqrs/
-* **Community**: https://groups.google.com/group/lokad
-* **Primary Author**: Rinat Abdullin ([@abdullin](http://twitter.com/abdullin)), Technology Lead at Lokad
-* **Other Contributions**: 
-
-    * Joannes Vermorel ([@vermorel](http://twitter.com/vermorel)), Founder at Lokad
-    * Vsevolod Parfenov ([@vsevolod](http://twitter.com/vsevolod)), Software Developer at Lokad
+* **Homepage**: [http://code.google.com/p/lokad-cqrs/](http://code.google.com/p/lokad-cqrs/)
+* **Community**: [https://groups.google.com/group/lokad](https://groups.google.com/group/lokad)
+* **Author**: [Rinat Abdullin] (http://abdullin.com/about-me)
+* **Contributors**: [Joannes Vermorel] (http://vermorel.com/about-me/), [Vsevolod Parfenov] (http://twitter.com/vsevolod) and all [git contributors] (https://github.com/abdullin/abdullin.github.com/contributors)
 
 ## Document Audience
 This document targets developers that want to learn how to use Lokad.CQRS to prototype and develop _cloud-capable distributed_ systems with Microsoft .NET stack. It also might be helpful for .NET students who want to get guidance on building distributed and cloud systems.
