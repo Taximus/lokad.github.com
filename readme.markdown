@@ -4,7 +4,7 @@ This is the source repository for the **Lokad.CQRS Book**, which serves as docum
 
 You are welcome to:
 
-* Read current version of the book online at [http://abdullin.github.com](http://abdullin.github.com)
+* Read current version of the book online at [http://lokad.github.com](http://lokad.github.com)
 * Fork this repository it and submit pull requests for any typo fixes and additional case studies.
 * Check out Lokad.CQRS project.
 * Join the [comminuty discussions](https://groups.google.com/forum/#!forum/lokad).
