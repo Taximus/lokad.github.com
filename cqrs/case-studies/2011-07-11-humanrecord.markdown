@@ -6,11 +6,11 @@ title: Review 2011-07-11 - Human Record.com
 
 # Human Record
 
-> This case study was kindly provided by [Tihomir Petkov](http://www.linkedin.com/in/tihomirpetkov), CTO and co-founder of the [Human Record](http://www.humanrecord.com/) - a marketplace for historic and vintage photos, illustrations, and fine art. 
+This case study was kindly provided by [Tihomir Petkov](http://www.linkedin.com/in/tihomirpetkov), CTO and co-founder of [Human Record](http://www.humanrecord.com/). 
 
 ## 1. What is your business about? Why have you chosen to go distributed/cloud way?
 
-Human Record is a marketplace for historic and vintage photos, illustrations, and fine art. We serve the international community of historic image professionals and passionate amateurs by providing an online platform for crowdsourced content aggregation and straightforward licensing. We decided to build Human Record in a distributed way because of two primary reasons. First, from an engineering perspective, we liked the reduced complexity and easier maintenance of a system based on loosely coupled autonomous components. This type of architecture also facilitates scaling, which is especially important for any web solution facing hard to predict workloads and traffic. And second, from a business point of view, having a distributed system running in the cloud has very tangible cashflow-related benefits: no upfront infrastructure expenses, greatly reduced administration overhead, and flexible ongoing infrastructure costs that can be easily scaled to fit the current demand.
+Human Record is the marketplace for historic and vintage photos, illustrations, and fine art. We serve the international community of historic image professionals and passionate amateurs by providing an online platform for crowdsourced content aggregation and straightforward licensing. We decided to build Human Record in a distributed way because of two primary reasons. First, from an engineering perspective, we liked the reduced complexity and easier maintenance of a system based on loosely coupled autonomous components. This type of architecture also facilitates scaling, which is especially important for any web solution facing hard to predict workloads and traffic. And second, from a business point of view, having a distributed system running in the cloud has very tangible cashflow-related benefits: no upfront infrastructure expenses, greatly reduced administration overhead, and flexible ongoing infrastructure costs that can be easily scaled to fit the current demand.
 
 ## 2. How long have you been using Lokad.CQRS? How do you find it? 
 
